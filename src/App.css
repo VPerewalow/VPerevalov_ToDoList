@@ -1,0 +1,22 @@
+.container {
+    width: 700px;
+    margin: 100px auto;
+    background-color: rgb(43, 61, 219);
+    border: 2px solid black;
+    border-radius: 40px;
+}
+
+.card-container {
+    width: 90%;
+    margin: 35px auto;
+}
+
+.counters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 30px;
+    color: #fff;
+    margin: 20px;
+  }
