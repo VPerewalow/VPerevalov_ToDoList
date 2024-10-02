@@ -1,0 +1,21 @@
+.header {
+    box-sizing: border-box;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__input {
+    width: 280px;
+    padding: 10px;
+    border-radius: 40px;
+    border: 2px solid black;
+}
+
+.header__button {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    cursor: pointer;
+}
